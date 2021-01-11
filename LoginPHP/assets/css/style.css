@@ -1,0 +1,20 @@
+.body{
+    background-color: lemonchiffon;
+}
+
+.Absolute-Center {
+    width: 300%; 
+    height: 300%;
+    min-width: 300px;
+    max-width: 600px;
+    padding-top: 230px;
+    margin-right:200px ;
+  }
+  
+  input:invalid {
+    border: 2px dashed red;
+  }
+  
+  input:valid {
+    border: 2px solid GREEN;
+  }
